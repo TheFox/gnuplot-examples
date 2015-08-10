@@ -4,6 +4,7 @@ set xlabel 'x Label'
 set ylabel 'y Label'
 
 set grid
+set key below
 set tics out
 
 set xrange [0.9:5.2]
