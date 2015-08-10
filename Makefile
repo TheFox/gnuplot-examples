@@ -7,7 +7,7 @@ all: install generate
 
 install: img
 
-generate: img/line.png img/line-width3.png img/line-100.png img/lines.png img/points.png img/time.png img/date.png img/datetime.png
+generate: img/line.png img/line-width3.png img/line-100.png img/line-avg.png img/lines.png img/points.png img/time.png img/date.png img/datetime.png
 
 img:
 	$(MKDIR) $@
