@@ -5,7 +5,7 @@ set title 'Lines Avg'
 set xlabel 'x Label'
 set ylabel 'y Label'
 
-# set grid
+set grid
 set key below
 set tics out
 
