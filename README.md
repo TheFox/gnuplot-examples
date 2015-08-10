@@ -32,6 +32,10 @@ Using the same as *Default Line* but scaling y with 1/100 of the original value.
 
 ![](img/line-avg.png)
 
+## Line Sum
+
+![](img/line-sum.png)
+
 ## Lines
 
 See [`scripts/lines.gp`](scripts/lines.gp).
