@@ -1,0 +1,19 @@
+{
+	"folders":[
+		{
+			"path": ".",
+			"name": "GNUPlot Examples",
+			"folder_exclude_patterns": [ ],
+			"file_exclude_patterns": [ ]
+		}
+	],
+	"build_systems":[
+		{
+			"name": "Generate",
+			"cmd": ["./generate.sh"],
+			"working_dir": "${project_path:${folder}}",
+			"path": "/usr/local/bin:$PATH",
+			"shell": true
+		}
+	]
+}
