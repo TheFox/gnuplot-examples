@@ -17,8 +17,8 @@ set style line 3 linecolor rgb '#00ff00' linetype 1 linewidth 2
 set terminal png enhanced
 set output 'img/lines.png'
 plot 'data/lines.dat' using 1:2 with lines linestyle 1 title 'line1', \
-	'data/lines.dat' using 1:3 with lines linestyle 2 title 'line2', \
-	'data/lines.dat' using 1:($2+$3) with lines linestyle 3 title 'sum'
+	'' using 1:3 with lines linestyle 2 title 'line2', \
+	'' using 1:($2+$3) with lines linestyle 3 title 'sum'
 
 # set terminal xterm
 # replot
