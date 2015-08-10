@@ -35,5 +35,5 @@ plot sum = init(0), \
 
 # plot 'data/line-avg.dat' using 0:2 linestyle 1 title 'data'
 
-set terminal xterm
-replot
+# set terminal xterm
+# replot
