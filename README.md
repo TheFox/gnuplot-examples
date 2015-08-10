@@ -32,31 +32,31 @@ Using the same as *Default Line* but scaling y with 1/100 of the original value.
 
 ![](img/line-avg.png)
 
-# Lines
+## Lines
 
 See [`scripts/lines.gp`](scripts/lines.gp).
 
 ![](img/lines.png)
 
-# Points
+## Points
 
 See [`scripts/points.gp`](scripts/points.gp).
 
 ![](img/points.png)
 
-# Date
+## Date
 
 See [`scripts/date.gp`](scripts/date.gp).
 
 ![](img/date.png)
 
-# Time
+## Time
 
 See [`scripts/time.gp`](scripts/time.gp).
 
 ![](img/time.png)
 
-# DateTime
+## DateTime
 
 See [`scripts/datetime.gp`](scripts/datetime.gp).
 
