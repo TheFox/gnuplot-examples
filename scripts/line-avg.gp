@@ -33,7 +33,5 @@ plot sum = init(0), \
 	'' using 1:(sum = sum + $2, sum/($0+1)) linestyle 3 title 'total avg', \
 	'' using 1:(avg5($2)) linestyle 2 title '5 points avg'
 
-# plot 'data/line-avg.dat' using 0:2 linestyle 1 title 'data'
-
 # set terminal xterm
 # replot
