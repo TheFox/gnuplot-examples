@@ -14,9 +14,9 @@ set xtics 1, 1, 13
 
 set yrange [0:1100]
 
-set style line 1 linecolor rgb '#00ff00' linewidth 2 linetype 1
-set style line 2 linecolor rgb '#0000ff' linewidth 1 pointtype 7 ps 1.0
-set style line 3 linecolor rgb '#ff0000' linewidth 1 pointtype 1
+set style line 1 linecolor rgb '#00ff00' linewidth 2 linetype 3 pointtype 2
+set style line 2 linecolor rgb '#0000ff' linewidth 1 linetype 3 pointtype 8 ps 1.0
+set style line 3 linecolor rgb '#ff0000' linewidth 1 linetype 3 pointtype 1
 set style data linespoints
 
 samples(x) = $0 > 4 ? 5 : ($0+1)

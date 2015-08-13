@@ -13,7 +13,7 @@ set xtics 0, 1, 5
 set yrange [0:10000]
 
 set style line 1 linecolor rgb '#0060ad' linewidth 2 pointtype 1 ps 1
-set style line 2 linecolor rgb '#ad6000' linewidth 2 pointtype 2 ps 1
+set style line 2 linecolor rgb '#ff0000' linewidth 2 pointtype 2 ps 1
 
 set terminal png enhanced
 set output 'img/points.png'

@@ -12,8 +12,8 @@ set xtics 1, 1, 13
 
 set yrange [-500:1600]
 
-set style line 1 linecolor rgb '#00ff00' linewidth 2 linetype 1
-set style line 2 linecolor rgb '#ff0000' linewidth 1 pointtype 1
+set style line 1 linecolor rgb '#00ff00' linewidth 2 linetype 3 pointtype 2
+set style line 2 linecolor rgb '#ff0000' linewidth 1 linetype 3 pointtype 2
 set style data linespoints
 
 set terminal png enhanced
