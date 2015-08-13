@@ -23,5 +23,5 @@ plot sum = 0, \
 	'data/line-sum.dat' using 1:2 linestyle 1 title 'data', \
 	'' using 1:(sum = sum + $2) linestyle 2 title 'sum'
 
-set terminal xterm
-replot
+# set terminal xterm
+# replot
