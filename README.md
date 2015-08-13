@@ -30,9 +30,13 @@ Using the same as *Default Line* but scaling y with 1/100 of the original value.
 
 ## Line Average
 
+See [`scripts/line-avg.gp`](scripts/line-avg.gp).
+
 ![](img/line-avg.png)
 
 ## Line Sum
+
+See [`scripts/line-sum.gp`](scripts/line-sum.gp).
 
 ![](img/line-sum.png)
 
