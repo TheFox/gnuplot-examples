@@ -10,7 +10,7 @@
 	"build_systems":[
 		{
 			"name": "Generate",
-			"cmd": ["./generate.sh"],
+			"cmd": ["make generate"],
 			"working_dir": "${project_path:${folder}}",
 			"path": "/usr/local/bin:$PATH",
 			"shell": true
