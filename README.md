@@ -4,7 +4,8 @@ Collection of [GNUPlot](http://www.gnuplot.info/) examples.
 
 ## Default Line
 
-See [`scripts/line.gp`](scripts/line.gp).
+- GNUPlot script: [`scripts/line.gp`](scripts/line.gp)
+- Data file: [`data/line.dat`](data/line.dat)
 
 Using column 1 and 2 from `data/line.dat`.
 
@@ -14,13 +15,15 @@ Using column 1 and 2 from `data/line.dat`.
 
 ## Line Width 3
 
-See [`scripts/line-width3.gp`](scripts/line-width3.gp).
+- GNUPlot script: [`scripts/line-width3.gp`](scripts/line-width3.gp)
+- Data file: [`data/line-width3.dat`](data/line.dat)
 
 ![](img/line-width3.png)
 
 ## Line (1/100)
 
-See [`scripts/line-100.gp`](scripts/line-100.gp).
+- GNUPlot script: [`scripts/line-100.gp`](scripts/line-100.gp)
+- Data file: [`data/line-100.dat`](data/line.dat)
 
 Using the same as *Default Line* but scaling y with 1/100 of the original value.
 
@@ -30,48 +33,56 @@ Using the same as *Default Line* but scaling y with 1/100 of the original value.
 
 ## Line Average
 
-See [`scripts/line-avg.gp`](scripts/line-avg.gp).
+- GNUPlot script: [`scripts/line-avg.gp`](scripts/line-avg.gp)
+- Data file: [`data/line-avg.dat`](data/line-avg.dat)
 
 ![](img/line-avg.png)
 
 ## Line Sum
 
-See [`scripts/line-sum.gp`](scripts/line-sum.gp).
+- GNUPlot script: [`scripts/line-sum.gp`](scripts/line-sum.gp)
+- Data file: [`data/line-sum.dat`](data/line-sum.dat)
 
 ![](img/line-sum.png)
 
 ## Lines
 
-See [`scripts/lines.gp`](scripts/lines.gp).
+- GNUPlot script: [`scripts/lines.gp`](scripts/lines.gp)
+- Data file: [`data/lines.dat`](data/lines.dat)
 
 ![](img/lines.png)
 
 ## Points
 
-See [`scripts/points.gp`](scripts/points.gp).
+- GNUPlot script: [`scripts/points.gp`](scripts/points.gp)
+- Data file: [`data/points.dat`](data/points.dat)
 
 ![](img/points.png)
 
 ## Date
 
-See [`scripts/date.gp`](scripts/date.gp).
+- GNUPlot script: [`scripts/date.gp`](scripts/date.gp)
+- Data file: [`data/date.dat`](data/date.dat)
 
 ![](img/date.png)
 
 ## Time
 
-See [`scripts/time.gp`](scripts/time.gp).
+- GNUPlot script: [`scripts/time.gp`](scripts/time.gp)
+- Data file: [`data/time.dat`](data/time.dat)
 
 ![](img/time.png)
 
 ## DateTime
 
-See [`scripts/datetime.gp`](scripts/datetime.gp).
+- GNUPlot script: [`scripts/datetime.gp`](scripts/datetime.gp)
+- Data file: [`data/datetime.dat`](data/datetime.dat)
 
 ![](img/datetime.png)
 
 ## Headmap
 
-See [`scripts/headmap.gp`](scripts/headmap.gp).
+- GNUPlot script: [`scripts/headmap.gp`](scripts/headmap.gp)
+- Data file: [`data/headmap.dat`](data/headmap.dat)
 
 ![](img/headmap.png)
