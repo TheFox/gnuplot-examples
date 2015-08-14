@@ -69,3 +69,9 @@ See [`scripts/time.gp`](scripts/time.gp).
 See [`scripts/datetime.gp`](scripts/datetime.gp).
 
 ![](img/datetime.png)
+
+## Headmap
+
+See [`scripts/headmap.gp`](scripts/headmap.gp).
+
+![](img/headmap.png)
