@@ -16,14 +16,14 @@ Using column 1 and 2 from `data/line.dat`.
 ## Line Width 3
 
 - GNUPlot script: [`scripts/line-width3.gp`](scripts/line-width3.gp)
-- Data file: [`data/line-width3.dat`](data/line.dat)
+- Data file: [`data/line.dat`](data/line.dat)
 
 ![](img/line-width3.png)
 
 ## Line (1/100)
 
 - GNUPlot script: [`scripts/line-100.gp`](scripts/line-100.gp)
-- Data file: [`data/line-100.dat`](data/line.dat)
+- Data file: [`data/line.dat`](data/line.dat)
 
 Using the same as *Default Line* but scaling y with 1/100 of the original value.
 
