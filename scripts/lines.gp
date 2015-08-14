@@ -1,7 +1,7 @@
 
 set title 'Lines'
-set xlabel 'x Label'
-set ylabel 'y Label'
+set xlabel 'x'
+set ylabel 'y'
 
 set grid
 set key below

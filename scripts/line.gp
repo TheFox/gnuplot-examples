@@ -1,7 +1,7 @@
 
 set title 'Line'
-set xlabel 'x Label'
-set ylabel 'y Label'
+set xlabel 'x'
+set ylabel 'y'
 
 set grid
 set tics out

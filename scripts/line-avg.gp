@@ -2,8 +2,8 @@
 # http://gnuplot.sourceforge.net/demo_4.6/running_avg.html
 
 set title 'Lines Avg'
-set xlabel 'x Label'
-set ylabel 'y Label'
+set xlabel 'x'
+set ylabel 'y'
 
 set grid
 set key below

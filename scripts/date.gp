@@ -1,7 +1,7 @@
 
 set title 'Date'
-set xlabel 'Days'
-set ylabel 'Persons'
+set xlabel 'x'
+set ylabel 'y'
 
 set grid
 set tics out

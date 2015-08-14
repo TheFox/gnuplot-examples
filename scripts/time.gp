@@ -1,7 +1,7 @@
 
 set title 'Time'
-set xlabel 'Hours'
-set ylabel 'Persons'
+set xlabel 'x'
+set ylabel 'y'
 
 set grid
 set tics out
