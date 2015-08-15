@@ -7,7 +7,7 @@ set key below
 set tics out
 
 set view map
-set dgrid3d
+set dgrid3d 30, 30
 
 # set xrange [0.9:5.2]
 set xtics 1
