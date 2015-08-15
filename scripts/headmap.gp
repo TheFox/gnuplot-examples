@@ -9,10 +9,10 @@ set tics out
 set view map
 set dgrid3d 30, 30
 
-# set xrange [0.9:5.2]
+set xrange [10:14]
 set xtics 1
 
-# set yrange [1:5]
+set yrange [20:24]
 set ytics 1
 
 # set palette defined (0 0 0 0.5, 1 0 0 1, 2 0 0.5 1, 3 0 1 1, 4 0.5 1 0.5, 5 1 1 0, 6 1 0.5 0, 7 1 0 0, 8 0.5 0 0)
