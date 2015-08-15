@@ -19,7 +19,7 @@ set ytics 1
 # set palette rgbformula -7, 2, -7
 
 set cbrange [60:65]
-set cbtics 1
+set cbtics 5
 # set cblabel 'Score'
 # unset cbtics
 
