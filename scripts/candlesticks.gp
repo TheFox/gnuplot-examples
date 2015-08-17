@@ -1,4 +1,6 @@
 
+# http://gnuplot.sourceforge.net/demo/candlesticks.html
+
 set title 'Candlesticks'
 set xlabel 'x'
 set ylabel 'y'
