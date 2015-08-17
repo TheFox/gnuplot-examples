@@ -4,7 +4,7 @@ set xlabel 'x'
 set ylabel 'y'
 
 set grid
-set key below
+set key below center horizontal noreverse enhanced autotitle box dashtype solid
 set tics out
 
 set xrange [0.9:5.2]

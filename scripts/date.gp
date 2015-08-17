@@ -4,6 +4,7 @@ set xlabel 'x'
 set ylabel 'y'
 
 set grid
+set key below center horizontal noreverse enhanced autotitle box dashtype solid
 set tics out
 
 set timefmt '%Y-%m-%d'
@@ -18,7 +19,7 @@ set style line 1 linecolor rgb '#0060ad' linetype 1 linewidth 1
 
 set terminal png enhanced
 set output 'img/date.png'
-plot 'data/date.dat' using 1:2 with lines linestyle 1 notitle
+plot 'data/date.dat' using 1:2 with lines linestyle 1 title 'data'
 
 # set terminal xterm
 # replot

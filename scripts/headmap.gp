@@ -3,7 +3,7 @@ set title 'Headmap'
 set xlabel 'x'
 set ylabel 'y'
 
-set key below
+unset key
 set tics out
 
 set dgrid3d 30, 30
