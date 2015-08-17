@@ -4,7 +4,7 @@ set xlabel 'x'
 set ylabel 'y'
 
 unset key
-set tics out
+set tics out nomirror
 
 set dgrid3d 30, 30
 set pm3d map

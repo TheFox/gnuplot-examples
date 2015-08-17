@@ -5,7 +5,7 @@ set ylabel 'y'
 
 set grid
 set key below center horizontal noreverse enhanced autotitle box dashtype solid
-set tics out
+set tics out nomirror
 set border 3 front linetype black linewidth 1.0 dashtype solid
 
 set xrange [1:13]
