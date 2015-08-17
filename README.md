@@ -2,6 +2,20 @@
 
 Collection of [GNUPlot](http://www.gnuplot.info/) examples.
 
+- [Default Line](#default-line)
+- [Line Width 3](#line-width-3)
+- [Line (1/100)](#line-1100)
+- [Line Average](#line-average)
+- [Line Sum](#line-sum)
+- [Lines](#lines)
+- [Points](#points)
+- [Date](#date)
+- [Time](#time)
+- [DateTime](#datetime)
+- [Headmap](#headmap)
+- [Gantt](#gantt)
+- [Y Error Bars](#y-error-bars)
+
 ## Default Line
 
 - GNUPlot script: [`scripts/line.gp`](scripts/line.gp)
