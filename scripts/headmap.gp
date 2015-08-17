@@ -21,7 +21,7 @@ set mytics 1
 # set palette rgbformula -7, 2, -7
 
 set cbrange [60:65]
-set cbtics 5
+set cbtics 1
 # set cblabel 'cblabel'
 # unset cbtics
 
