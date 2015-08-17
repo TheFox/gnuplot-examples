@@ -6,8 +6,8 @@ set ylabel 'y'
 set key below
 set tics out
 
-set view map
 set dgrid3d 30, 30
+set pm3d map
 
 set xrange [10:14]
 set xtics 1
@@ -25,4 +25,4 @@ set cbtics 5
 
 set terminal png nocrop enhanced
 set output 'img/headmap.png'
-splot 'data/headmap.dat' using 1:2:3 with pm3d notitle
+splot 'data/headmap.dat' using 1:2:3 notitle
