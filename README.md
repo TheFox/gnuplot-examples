@@ -59,13 +59,6 @@ Using the same as *Default Line* but scaling y with 1/100 of the original value.
 
 ![](img/points.png)
 
-## Y Error Bars
-
-- GNUPlot script: [`scripts/yerrorbars.gp`](scripts/yerrorbars.gp)
-- Data file: [`data/yerrorbars.dat`](data/yerrorbars.dat)
-
-![](img/yerrorbars.png)
-
 ## Date
 
 - GNUPlot script: [`scripts/date.gp`](scripts/date.gp)
@@ -100,3 +93,10 @@ Using the same as *Default Line* but scaling y with 1/100 of the original value.
 - Data file: [`data/gantt.dat`](data/gantt.dat)
 
 ![](img/gantt.png)
+
+## Y Error Bars
+
+- GNUPlot script: [`scripts/yerrorbars.gp`](scripts/yerrorbars.gp)
+- Data file: [`data/yerrorbars.dat`](data/yerrorbars.dat)
+
+![](img/yerrorbars.png)
