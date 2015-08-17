@@ -24,6 +24,7 @@ set cbrange [60:65]
 set cbtics 1
 # set cblabel 'cblabel'
 # unset cbtics
+# unset colorbox
 
 set terminal png nocrop enhanced
 set output 'img/headmap.png'
