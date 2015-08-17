@@ -6,6 +6,7 @@ set ylabel 'y (1/100)'
 set grid
 set key below center horizontal noreverse enhanced autotitle box dashtype solid
 set tics out
+set border 3 front linetype black linewidth 1.0 dashtype solid
 
 set xrange [1:5]
 set xtics 1, .5, 5
