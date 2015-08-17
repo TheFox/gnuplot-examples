@@ -12,6 +12,7 @@ set format x '%k'
 
 set xrange ['00:00:00':'23:59:59']
 set xtics '00:00:00', 10800, '23:59:59'
+set mxtics 1
 
 set style line 1 linecolor rgb '#0060ad' linetype 1 linewidth 1
 

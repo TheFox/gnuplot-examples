@@ -9,6 +9,7 @@ set tics out
 
 set xrange [0.9:5.7]
 set xtics 1, .5, 6
+set mxtics 1
 
 set style line 1 linecolor rgb '#0060ad' linetype 1 linewidth 2
 set style line 2 linecolor rgb '#ff0000' linetype 1 linewidth 2

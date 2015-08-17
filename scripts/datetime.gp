@@ -12,6 +12,7 @@ set format x "%b %d\n'%y"
 
 set xrange ['1987-02-21 00:00:00':'1987-02-25 23:59:59']
 set xtics '1987-02-21 00:00:00', 86400, '1987-02-25 23:59:59'
+set mxtics 1
 
 set style line 1 linecolor rgb '#0060ad' linetype 1 linewidth 1
 

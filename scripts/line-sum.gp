@@ -9,6 +9,7 @@ set tics out
 
 set xrange [1:13]
 set xtics 1, 1, 13
+set mxtics 1
 
 set yrange [-500:1600]
 
