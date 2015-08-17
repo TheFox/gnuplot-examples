@@ -8,7 +8,7 @@ set tics out
 
 set timefmt '%Y-%m-%d %H:%M'
 set xdata time
-set format x '%m-%d'
+set format x "%b %d\n'%y"
 
 set xrange ['1987-02-21 00:00:00':'1987-02-25 23:59:59']
 set xtics '1987-02-21 00:00:00', 86400, '1987-02-25 23:59:59'
