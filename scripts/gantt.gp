@@ -16,7 +16,7 @@ set format x "%b\n'%y" timedate
 set xtics border in scale 2, 0.5 nomirror norotate autojustify
 set mxtics 1
 
-set yrange [-1.00000:*] noreverse nowriteback
+set yrange [-1.0:*] noreverse nowriteback
 set ytics border in scale 1, 0.5 nomirror norotate autojustify norangelimit
 set mytics 1
 
