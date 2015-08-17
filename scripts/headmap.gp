@@ -22,7 +22,7 @@ set mytics 1
 
 set cbrange [60:65]
 set cbtics 5
-# set cblabel 'Score'
+# set cblabel 'cblabel'
 # unset cbtics
 
 set terminal png nocrop enhanced
