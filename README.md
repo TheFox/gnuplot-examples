@@ -16,6 +16,7 @@ Collection of [GNUPlot](http://www.gnuplot.info/) examples.
 - [Gantt](#gantt)
 - [Y Error Bars](#y-error-bars)
 - [Candlesticks](#candlesticks)
+- [Timeline](#timeline)
 
 ## Default Line
 
