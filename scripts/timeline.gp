@@ -33,7 +33,7 @@ set style fill solid
 
 set terminal png enhanced size 500, 800
 set output 'img/timeline.png'
-plot 'data/timeline.dat' using 1:3:3:4:4:xticlabels(2) with candlesticks linestyle 1 title 'data' whiskerbars
+plot 'data/timeline.dat' using 1:3:3:4:4:xticlabels(2) with candlesticks linestyle 1 title 'data'
 
 # set terminal xterm
 # replot
