@@ -15,11 +15,9 @@ end_range='2001-05-05'
 set timefmt '%Y-%m-%d'
 
 set xrange [0:7]
-#set xtics font "Courier, 8"
 set xtics rotate by 90 offset 0, -2 out nomirror
 
 set ydata time
-#set format y "%b '%y"
 set yrange [begin_range:end_range]
 unset ytics
 
