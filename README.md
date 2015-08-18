@@ -122,3 +122,10 @@ Using the same as *Default Line* but scaling y with 1/100 of the original value.
 - Data file: [`data/candlesticks.dat`](data/candlesticks.dat)
 
 ![](img/candlesticks.png)
+
+## Timeline
+
+- GNUPlot script: [`scripts/timeline.gp`](scripts/timeline.gp)
+- Data file: [`data/timeline.dat`](data/timeline.dat)
+
+![](img/timeline_r.png)
