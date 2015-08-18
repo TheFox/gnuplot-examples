@@ -1,5 +1,6 @@
 
 MKDIR = mkdir -p
+GNUPLOT = gnuplot
 
 .PHONY: all install
 
@@ -13,10 +14,10 @@ img:
 	$(MKDIR) $@
 
 img/line-width3.png: scripts/line-width3.gp data/line.dat
-	gnuplot $<
+	$(GNUPLOT) $<
 
 img/line-100.png: scripts/line-100.gp data/line.dat
-	gnuplot $<
+	$(GNUPLOT) $<
 
 img/%.png: scripts/%.gp data/%.dat
-	gnuplot $<
+	$(GNUPLOT) $<
