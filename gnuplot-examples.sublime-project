@@ -14,6 +14,13 @@
 			"working_dir": "${project_path:${folder}}",
 			"path": "/usr/local/bin:$PATH",
 			"shell": true
+		},
+		{
+			"name": "Dev",
+			"cmd": ["make img/dev.png"],
+			"working_dir": "${project_path:${folder}}",
+			"path": "/usr/local/bin:$PATH",
+			"shell": true
 		}
 	]
 }
