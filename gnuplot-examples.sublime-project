@@ -3,7 +3,7 @@
 		{
 			"path": ".",
 			"name": "GNUPlot Examples",
-			"folder_exclude_patterns": [ ],
+			"folder_exclude_patterns": [ "img" ],
 			"file_exclude_patterns": [ ]
 		}
 	],
