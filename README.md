@@ -17,6 +17,7 @@ Collection of [GNUPlot](http://www.gnuplot.info/) examples.
 - [Y Error Bars](#y-error-bars)
 - [Candlesticks](#candlesticks)
 - [Timeline](#timeline)
+- [Impulse](#impulse)
 
 ## Default Line
 
@@ -130,3 +131,10 @@ Using the same as *Default Line* but scaling y with 1/100 of the original value.
 - Data file: [`data/timeline.dat`](data/timeline.dat)
 
 ![](img/timeline_r.png)
+
+## Impulse
+
+- GNUPlot script: [`scripts/impulse.gp`](scripts/impulse.gp)
+- Data file: [`data/impulse.dat`](data/impulse.dat)
+
+![](img/impulse.png)
