@@ -18,6 +18,8 @@ Collection of [GNUPlot](http://www.gnuplot.info/) examples.
 - [Candlesticks](#candlesticks)
 - [Timeline](#timeline)
 - [Impulse](#impulse)
+- [Histogram Clustered](#histogram-clustered)
+- [Histogram Rowstacked](#histogram-rowstacked)
 
 ## Default Line
 
@@ -138,3 +140,17 @@ Using the same as *Default Line* but scaling y with 1/100 of the original value.
 - Data file: [`data/impulse.dat`](data/impulse.dat)
 
 ![](img/impulse.png)
+
+## Histogram Clustered
+
+- GNUPlot script: [`scripts/histogram-clustered.gp`](scripts/histogram-clustered.gp)
+- Data file: [`data/histogram-clustered.dat`](data/histogram-clustered.dat)
+
+![](img/histogram-clustered.png)
+
+## Histogram Rowstacked
+
+- GNUPlot script: [`scripts/histogram-rowstacked.gp`](scripts/histogram-rowstacked.gp)
+- Data file: [`data/histogram-rowstacked.dat`](data/histogram-rowstacked.dat)
+
+![](img/histogram-rowstacked.png)
